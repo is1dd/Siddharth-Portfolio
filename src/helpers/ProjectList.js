@@ -16,9 +16,9 @@ export const ProjectList = [
     name: "BellaVita Clone",
     image: BellaVita,
     skills: "React, Chakra UI",
-    url: "https://bellavitaorganic-clone.vercel.app/",
+    url: "https://organicbazaar.vercel.app/",
     git: "https://github.com/is1dd/Bellavita-organic",
-    des: "Bellavitaorganic is an e-commerce website, where users can buy organic products."
+    des: "Organic Bazaar ecommerce app."
   },
     {
     name: "Best Buy Clone",
